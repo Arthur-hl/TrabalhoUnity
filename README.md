@@ -10,7 +10,7 @@ Sobre o projeto de exemplo:
 - Operation Interface
 - Ad formats support
   - Banner
-  -Interstitial
-  -Rewarded
-  -Rewarded interstitial
-  -(Optional) Native Ads Advanced (Unified)
+  - Interstitial
+  - Rewarded
+  - Rewarded interstitial
+  - (Optional) Native Ads Advanced (Unified)
