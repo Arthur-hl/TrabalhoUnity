@@ -14,3 +14,11 @@ Sobre o projeto de exemplo:
   - Rewarded
   - Rewarded interstitial
   - (Optional) Native Ads Advanced (Unified)
+ ## Environment
+ - Unity 2020.3.11f1
+   - External Dependency Manager for Unity v1.2.165
+   - Google Mobile Ads Unity Plugin v6.0.0
+   - (Optional) Google Mobile Ads Unity Plugin v5.4.0.90
+   - Contains Native Ads Advanced (Unified) functions
+
+      - # Referência: https://github.com/ChrisTJie/googleads-mobile-unity-example?tab=readme-ov-file#features
